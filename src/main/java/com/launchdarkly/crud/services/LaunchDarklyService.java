@@ -13,7 +13,8 @@ import com.launchdarkly.sdk.server.LDClient;
 
 @Component
 public class LaunchDarklyService {
-	private final String SDK_KEY = "sdk-f3a63309-e366-4967-b62f-dad4fd70d0df";
+	//private final String SDK_KEY = "sdk-f3a63309-e366-4967-b62f-dad4fd70d0df";
+	private final String SDK_KEY = "sdk-04799a0e-ecb8-4411-8cba-94a61f79f0e8";
 	private String FEATURE_FLAG_KEY;
     private LDClient client = new LDClient(SDK_KEY);
     private LDUser ldUser;
