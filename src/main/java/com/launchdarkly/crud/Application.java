@@ -29,7 +29,7 @@ public class Application {
         //final String SDK_KEY = "sdk-f3a63309-e366-4967-b62f-dad4fd70d0df";
 
         // Set FEATURE_FLAG_KEY to the feature flag key you want to evaluate
-        //final String FEATURE_FLAG_KEY = "new-edittab";
+        //final String FEATURE_FLAG_KEY = "new-edittab"; or another
 
  
 
